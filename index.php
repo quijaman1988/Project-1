@@ -72,7 +72,7 @@
 <div style="border-style:solid; border-width:2px; border-color:#EFEFEF; padding:15px;">
 <div class="row">
   <div class="col-md-2"><h4>Project 4</h4></div>
-  <div class="col-md-10"><a href="#">p3.manuelquijano.com</a><br><a href="#">Github</a></div>
+  <div class="col-md-10"><a href="#">p4.manuelquijano.com</a><br><a href="#">Github</a></div>
 </div>
 </div>
 

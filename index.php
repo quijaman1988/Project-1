@@ -1,14 +1,16 @@
-<html>
+<!DOCTYPE html>
 
 <head>
   <title>Project 1</title>
-  <meta charset="utf-8">
+  <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/2.3.2/js/bootstrap.min.js"></script>
 </head>
+
+<body>
 
 
 <div style="padding:15px;font-size:150%">
@@ -51,7 +53,7 @@
   <div class="col-md-6"></div>
 </div>
 
-</div><br>
+<br>
 
 <div style="border-style:solid; border-width:2px; border-color:#EFEFEF; padding:15px; border-bottom:none">
 <div class="row">
@@ -72,7 +74,10 @@
   <div class="col-md-2"><h4>Project 4</h4></div>
   <div class="col-md-10"><a href="#">p3.manuelquijano.com</a><br><a href="#">Github</a></div>
 </div>
+</div>
 
 
 
-</p>
+
+</body>
+</html>

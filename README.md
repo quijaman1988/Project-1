@@ -4,7 +4,7 @@
 <http://p1.manuelquijano.com>
 
 ## Description
-A Portfolio that will hold P2, P3 and P$
+A Portfolio that will hold P2, P3 and P4
 
 ## Demo
 <http://screencast.com/t/jCmZ1mB0fZsZ>

@@ -22,7 +22,7 @@
 </div>
 <div class="row">
   <div class="col-md-2"><img class="img-circle" src="images/manuel.jpg" alt="" /></div>
-  <div class="col-md-5"><br><span style="font-size:75%;font-weight:bold">Web Developer</span><h6> &nbsp;Mexico City</h6></div>
+  <div class="col-md-5"><br><span style="font-size:75%;font-weight:bold"><i class="fa fa-code fa-2x"></i>&nbsp;Web Developer</span><h6> &nbsp;Mexico City</h6></div>
 
   <div class="col-md-1"></div>
  <div class="col-md-2"></div>
@@ -60,22 +60,36 @@
 
 <div style="border-style:solid; border-width:2px; border-color:#EFEFEF; padding:15px; border-bottom:none">
 <div class="row">
-  <div class="col-md-2"><h4>Project 2</h4></div>
-  <div class="col-md-10"><a style="color:#FF9912" href="#">p2.manuelquijano.com</a><br><a style="color:#FF9912" href="#">Github</a></div>
+  <div class="col-md-2"><h4>Password Generator</h4></div>
+  <div class="col-md-10"><a style="color:#FF9912" href="http://p2.manuelquijano.com/">p2.manuelquijano.com</a><br><a style="color:#FF9912" href="https://github.com/quijaman1988/Project-2">Github</a></div>
 </div>
 </div>
 
 <div style="border-style:solid; border-width:2px; border-color:#EFEFEF; padding:15px;border-bottom:none">
 <div class="row">
-  <div class="col-md-2"><h4>Project 3</h4></div>
-  <div class="col-md-10"><a style="color:#FF9912" href="#">p3.manuelquijano.com</a><br><a style="color:#FF9912" href="#">Github</a></div>
+  <div class="col-md-2"><h4>Developers Best Friend</h4></div>
+  <div class="col-md-10"><a style="color:#FF9912" href="http://p3.manuelquijano.com/">p3.manuelquijano.com</a><br><a style="color:#FF9912" href="https://github.com/quijaman1988/dbf">Github</a></div>
 </div>
 </div>
 
 <div style="border-style:solid; border-width:2px; border-color:#EFEFEF; padding:15px;">
 <div class="row">
-  <div class="col-md-2"><h4>Project 4</h4></div>
-  <div class="col-md-10"><a style="color:#FF9912" href="#">p4.manuelquijano.com</a><br><a style="color:#FF9912" href="#">Github</a></div>
+  <div class="col-md-2"><h4>EZ-Task</h4></div>
+  <div class="col-md-10"><a style="color:#FF9912" href="http://p4.manuelquijano.com/">p4.manuelquijano.com</a><br><a style="color:#FF9912" href="https://github.com/quijaman1988/eztask">Github</a></div>
+</div>
+</div>
+
+<div style="border-style:solid; border-width:2px; border-color:#EFEFEF; padding:15px;">
+<div class="row">
+  <div class="col-md-2"><h4>Colegio Franco Ingles</h4></div>
+  <div class="col-md-10"><a style="color:#FF9912" href="http://www.colegiofrancoingles.com/">www.colegiofrancoingles.com</a><br></div>
+</div>
+</div>
+
+<div style="border-style:solid; border-width:2px; border-color:#EFEFEF; padding:15px;">
+<div class="row">
+  <div class="col-md-2"><h4>Crisan-Ca</h4></div>
+  <div class="col-md-10"><a style="color:#FF9912" href="http://crisan-ca.com/">www.crisan-ca.com</a><br></div>
 </div>
 </div>
 
